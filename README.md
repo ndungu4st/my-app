@@ -1,2 +1,3 @@
 My App
- this is my app
+ This is my app
+ JUST a Git github exp
